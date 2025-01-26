@@ -106,7 +106,7 @@ Kernpunten van de meeting:
 
 
 ### Stand van zaken
-Bij deze voortgangsgesprek heb ik kritische feedback ontvangen over het scrhijven van non-sematische elementen in mijn HTML document. Ik begreep niet goed waarom ik geen <div> en <div classes> mocht gebruiken. Na uitgebreide uitleg van Danny de Vries begrijp ik nu eindelijk het belang van het gebruik van semantisch correcte HTML-elementen, zoals header, main en footer. Het gebruik van semantische elementen zorgt namelijk ervoor dat de content duidelijk georganiseerd is.
+Bij deze voortgangsgesprek heb ik kritische feedback ontvangen over het schrijven van non-sematische elementen in mijn HTML document. Ik begreep niet goed waarom ik geen <div> en <div classes> mocht gebruiken. Na uitgebreide uitleg van Danny de Vries begrijp ik nu eindelijk het belang van het gebruik van semantisch correcte HTML-elementen, zoals header, main en footer. Het gebruik van semantische elementen zorgt namelijk ervoor dat de content duidelijk georganiseerd is.
 
 Tot slot heb ik ook het verschil geleerd tussen <button> en <a>. Een <button> wordt gebruikt voor interacties binnen dezelfde webpagina, zoals het uitvoeren van een actie of het activeren van een javascript-element. Daarentegen wordt een <a> gebruikt om door te navigeren naar een andere webpagina.
 
@@ -123,49 +123,34 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-
-
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>In week 4 heb ik een toegankelijkheidstest door een medestudent laten uitvoeren.</summary>
+<summary>In week 4 heb ik een toegankelijkheidstest samen met een medestudent laten uitvoeren op mijn website.</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+Onderstaand worden de belangrijkste bevindingen, die in de test naar voren kwamen, vermeld:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### De dropdown menu in de navigatiebalk (Desktop versie)
+De screenreader werd ingezet om de toegankelijkheid en inclusiviteit van de website www.nasa.gov te meten. Hieruit bleek dat de navigatie in het dropdownmenu van de navigatiebalk op de homepagina niet optimaal is ontworpen voor gebruikers met bewegingsbeperkingen. Gebruikers kunnen namelijk niet eenvoudig met de pijltjestoetsen door het menu navigeren. Aangezien het dropdownmenu een groot aantal onderwerpen bevat, moeten gebruikers elk onderwerp individueel doorlopen. Dit maakt het niet mogelijk om direct de gewenste webpagina te selecteren, wat de gebruiksvriendelijkheid van de gebruiker belemmert.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+<img width="1278" alt="Schermafbeelding 2025-01-26 om 23 24 34" src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" />
 
+Het probleem kan worden opgelost door een duidelijke hiërarchische structuur op te zetten die het navigeren binnen het dropdownmenu eenvoudiger maakt. Dit houdt in dat gebruikers vanuit het hoofdmenu de mogelijkheid krijgen om een onderwerp te selecteren, waarna ze direct toegang hebben tot de bijbehorende subonderwerpen of artikelen binnen die categorie. Daarnaast kan een optie worden toegevoegd waarmee gebruikers eenvoudig kunnen schakelen tussen andere hoofdonderwerpen.
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Videos spelen continu af in een loop. 
+De website van NASA maakt veel gebruik van bewegende achtergronden bij artikelen op de homepagina. Deze video's worden continu afgespeeld en stoppen niet automatisch. Dergelijke elementen kunnen de prestaties van de website negatief beïnvloeden, vooral wanneer het apparaat niet krachtig genoeg is om deze beelden soepel af te spelen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, te gebruiken. Daarnaast is het ook een idee om gebruikers de mogelijkheid te geven om deze animaties handmatig uit te schakelen.
 
 </details>
-
-
 
 
 
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>HTML finaliseren en begin maken aan CSS.</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
