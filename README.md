@@ -20,13 +20,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Kaa Leung Ho
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Zwart
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Responsive Design
  
 </details>
 
@@ -40,11 +40,12 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+Nasa.gov
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Homepage
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+![www nasa gov_](https://github.com/user-attachments/assets/0a4bdb01-d48b-4d4d-a311-21a03cfcd442)
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
