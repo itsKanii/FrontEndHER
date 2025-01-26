@@ -3,27 +3,22 @@ Herkansing Frontend Development
 Website: https://www.nasa.gov/
 
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Voor u ligt de procesverslag voor het van Frontend Development. Dit verslag is geschreven door een laatste jaars student, studerend aan de opleiding Communicatie Multimedia & Design aan de Hogeschool van Amsterdam.
 
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
+De delivarables voor dit vak bestaan uit een procesverslag en twee verschillende webpagina's, gerealiseerd met nette vanilla HTML, CSS en Javascript.
 
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
+Ik heb veel plezier beleefd aan het in praktijk brengen van de de kennis die ik tijdens de studie heb opgedaan. Het schrijven van het procesboek was complex, maar dit heb ik met veel plezier geschreven. Vooral met de hulp van student assistent Christopher Willems heb ik veel inzicht gekregen in het coderen. Bij deze wil ik hem persoonlijk bedanken voor zijn hulp en ondersteuning tijdens dit project. Dit waardeer ik zeer.
 
 
 ## Jij
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
 Kaa Leung Ho
 
 #### Je startniveau:
-Zwart
+Blauw/Rood
 
 #### Je focus:
 Responsive Design
@@ -37,10 +32,10 @@ Responsive Design
 ## Je website
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Nasa.gov
+Ik ga twee webpagina's bouwen van de website www.nasa.gov.
+
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
