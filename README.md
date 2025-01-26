@@ -128,7 +128,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary>In week 4 heb ik een toegankelijkheidstest door een medestudent laten uitvoeren.</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
