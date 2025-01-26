@@ -89,8 +89,6 @@ Ik had namelijk geen mobile-first-aanpak gehanteerd. Een studentassistent legde 
 n.v.t.
 
 ### Verslag van meeting
-Kernpunten van de meeting:
-
 - Altijd mobile-first beginnen bij het schrijven van code.
 - Huiswerk voor volgende week: Homepagine in html (zover mogelijk) uitwerken.
 
@@ -114,8 +112,6 @@ Tot slot heb ik ook het verschil geleerd tussen <button> en <a>. Een <button> wo
 n.v.t.
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
 - Uitleg en de gedachtepunt omtrent het schrijven van semantische elementen in de HTML document.
 - Geen <divs> of <div classes> gebruiken, maar CSS selectors.
 
@@ -150,40 +146,27 @@ Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, 
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>HTML finaliseren en begin maken aan CSS.</summary>
+<summary>HTML verder uitwerken en begin maken aan CSS.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+De mobiele versie is klaar, dus ik begin nu met de ontwikkeling van de desktopversie. Dit betekent dat ik eerst de benodigde HTML-elementen voor de desktopversie moet opzetten. Zodra deze klaar zijn, zal ik verdergaan met het toepassen van CSS. Christopher Willems heeft mij enorm geholpen bij het implementeren van media queries, waarmee content kan worden toegevoegd of verwijderd om de website responsief te maken voor verschillende schermformaten.
+Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu interactief te maken.
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+n.v.t.
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- De Mobile First aanpak is af en goedgekeurd.
+- Uitleg gekregen responsive design en bijbehorende media media query.
 
 </details>
-
-
 
 
 
 ## Eindgesprek (week 5)
 
 <details>
-<summary>uitwerken voor eindgesprek</summary>
+<summary>Verdiepen in CSS</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
