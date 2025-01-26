@@ -41,7 +41,10 @@ Ik ga twee webpagina's bouwen van de website www.nasa.gov.
 Homepage
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
-![image]([https://your-image-url.type](https://github.com/user-attachments/assets/0a4bdb01-d48b-4d4d-a311-21a03cfcd442) with <img src="[https://your-image-url.type](https://github.com/user-attachments/assets/0a4bdb01-d48b-4d4d-a311-21a03cfcd442)" width="100" height="100">
+![image]([www.nasa.gov_.png](https://github.com/user-attachments/assets/0a4bdb01-d48b-4d4d-a311-21a03cfcd442) with <img src="[https://your-image-url.type](https://github.com/user-attachments/assets/0a4bdb01-d48b-4d4d-a311-21a03cfcd442)" width="100" height="100">
+
+
+<img src="https://www.nasa.gov/" width="100" height="100">
 
 
 ![www nasa gov_](https://github.com/user-attachments/assets/0a4bdb01-d48b-4d4d-a311-21a03cfcd442)
