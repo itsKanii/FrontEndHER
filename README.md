@@ -152,6 +152,9 @@ Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, 
 De mobiele versie is klaar, dus ik begin nu met de ontwikkeling van de desktopversie. Dit betekent dat ik eerst de benodigde HTML-elementen voor de desktopversie moet opzetten. Zodra deze klaar zijn, zal ik verdergaan met het toepassen van CSS. Christopher Willems heeft mij enorm geholpen bij het implementeren van media queries, waarmee content kan worden toegevoegd of verwijderd om de website responsief te maken voor verschillende schermformaten.
 Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu interactief te maken.
 
+<img width="626" alt="Schermafbeelding 2025-01-27 om 00 41 47" src="https://github.com/user-attachments/assets/e7f76c64-22d0-4029-881a-33e162a5c804" />
+<img width="626" alt="Schermafbeelding 2025-01-27 om 00 43 28" src="https://github.com/user-attachments/assets/32379fd4-e73c-4d06-91d2-f9391eec6631" />
+
 ### Agenda voor meeting
 n.v.t.
 
@@ -163,19 +166,62 @@ n.v.t.
 
 
 
-## Eindgesprek (week 5)
+## Feedbackgesprek 1 (week 5)
 
 <details>
-<summary>Verdiepen in CSS</summary>
+<summary>Verdiepen in meer CSS</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb mij wezen verdiepen in responsive design en hoe elementen toegevoegd, verwijderd of verplaatst kunnen worden op de webpagina. Hierbij heb ik gewerkt met breakpoints om de lay-out dynamisch aan te passen aan verschillende schermformaten. Mijn website heeft drie responsieve ontwerpen met twee breakpoints.
+De website begint met een minimale min-width van 600px. Het eerste breakpoint is ingesteld op 640px en het tweede breakpoint op 1024px. Hierdoor wordt de website optimaal weergegeven op diverse schermgroottes.
+
+### Kernpunten deze week
+- Min-width zorgt ervoor dat de website een minimale dimensie kan behouden om het te laten werken.
+- Niet alle elementen worden meegeschaald met de responsiveness van de website.
+- Uitleg gekregen Javascript.
+
+</details>
+
+
+
+## Feedbackgesprek 2 (week 6)
+
+<details>
+<summary>Thuiswerken aan CSS en Javascript</summary>
+
+### Stand van zaken
+Deze week was erg druk geweest voor mij, omdat ik een herkansing had voor een ander vak die ik echt moest halen. Hierdoor kon ik helaas niet deelnemen aan de feedbackgesprekken op school. Om dit te compenseren, heb ik mezelf verdiept in online bronnen voor het finaliseren van mijn website. Christopher Willems heeft mij een hele handige open-source website aanbevolen om theorieën en documentatie op te zoeken, namelijk MDN Web Docs.
+
+### Kernpunten deze week
+- Min-width zorgt ervoor dat de website een minimale dimensie kan behouden om het te laten werken.
+- Niet alle elementen worden meegeschaald met de responsiveness van de website.
+- Uitleg gekregen Javascript.
+
+</details>
+
+## Eindgesprek 
+
+<details>
+<summary>Puntjes op de i zetten</summary>
+
+### Stand van zaken
+Door de herkansing kon ik ook niet deelnemen aan aan het eindgesprek. Ik heb contact gezocht met Christopher Willems. Samen hebben wij naar mijn code gekeken.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
 
 </details>
+
+
+
+
+
+
+
+
+
+
 
 
 
