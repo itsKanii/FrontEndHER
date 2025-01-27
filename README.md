@@ -44,6 +44,7 @@ Homepage
 
 ![www nasa gov_](https://github.com/user-attachments/assets/af37ab53-2d90-4728-8292-0b0149c1152b)
 
+<img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" alt="First Web Page" width="400" height="700">
 
 
 #### Screenshot(s) van de tweede pagina (small screen):
