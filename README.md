@@ -40,10 +40,7 @@ Ik ga twee webpagina's bouwen van de website www.nasa.gov.
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
 
-
-![www nasa gov_](https://github.com/user-attachments/assets/af37ab53-2d90-4728-8292-0b0149c1152b)
-
-<img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" alt="First Web Page" style="width:50%; height:50%">
+<img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" alt="First Web Page" style="width:20%; height:20%">
 
 
 #### Screenshot(s) van de tweede pagina (small screen):
