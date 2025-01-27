@@ -36,6 +36,19 @@ Responsive Design
 ### Je opdracht:
 Ik ga twee webpagina's bouwen van de website www.nasa.gov.
 
+```css
+a:active {
+  text-decoration: underline;
+  color: brown;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: brown;
+  font-size: 1em;
+}
+```
+
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
