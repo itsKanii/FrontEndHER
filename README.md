@@ -35,6 +35,8 @@ Responsive Design
 
 ### Je opdracht:
 Ik ga twee webpagina's bouwen van de website www.nasa.gov.
+Zie links: Homepagina
+Zie rechts: ...Pagina
 
 
 <p float="left">
