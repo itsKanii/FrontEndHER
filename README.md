@@ -38,38 +38,12 @@ Ik ga twee webpagina's bouwen van de website www.nasa.gov.
 Zie links: Homepagina
 Zie rechts: ...Pagina
 
-
-Here are two images with individual headings:
-
-<p float="left" align="center">
-  <div>
-    <strong>Heading for Image 1</strong>
-    <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
-  </div>
-  <div>
-    <strong>Heading for Image 2</strong>
-    <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
-  </div>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
 </p>
-
-
-
-
-
-#### Screenshot(s) van de eerste pagina (small screen): 
-Homepage
-
-<img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" alt="First Web Page" style="width:20%; height:20%">
-
-
-
-#### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
-
-
 
 
 
