@@ -181,6 +181,7 @@ Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu int
   <img src="https://github.com/user-attachments/assets/b7a143d4-89dc-42d8-b8b1-1bcd05fa8264" width="45%" />
 
 Mijn doel is nu om de HTML elementen voor de desktop versie te maken. Zie referentie:
+
   <img src="https://github.com/user-attachments/assets/e7fc943e-aa05-4431-92dd-643a2a9651f2" width="45%" />
 
 Christopher Willems heeft mij uitleg gegeven hoe ik mijn website responsive kan maken door mediaqueries te gebruiken.
@@ -211,7 +212,7 @@ Ik heb onderstaand lopen oefenen met kleuren om deze veranderingen eenvoudig te 
 n.v.t.
 
 ### Verslag van meeting
-- De Mobile First aanpak is af en goedgekeurd.
+- De Mobile Versie is af, nu aan de slag met de Desktop Versie.
 - Uitleg gekregen responsive design en bijbehorende media media query.
 
 </details>
@@ -282,13 +283,12 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary>Onderstaan zie je de bronnen die ik heb gebruikt om deze webpagina's te maken.</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. Aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
-2. 
+- Aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
+- 
 3. bron 2
-4. ...
+- Media Query Fundamentals: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries
 
 </details>
