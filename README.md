@@ -52,8 +52,6 @@ Zie rechts: ...Pagina
 
   <img src="https://github.com/user-attachments/assets/ab70bb90-eccb-4441-a830-f600550166d6" width="45%" />
 
-
-
 </details>
 
 
@@ -62,10 +60,10 @@ Zie rechts: ...Pagina
 
 <details>
  
-<summary>In de tweede week heb ik een poging gedaan om een eerste opzet van de homepage in vanilla HTML te maken.</summary>
+<summary>In week 1 heb ik een poging gedaan om de eerste opzet van de website te maken in vanilla HTML.</summary>
 
 ### Stand van zaken
-Het structureren van de content in HTML was in het begin behoorlijk lastig. Het was namelijk al een tijdje geleden dat ik met code had gewerkt, en ik wist niet precies waar ik moest beginnen. Daarom besloot ik maar gewoon ergens te starten, en mijn gekozen website na te bouwen. Tijdens het voortgangsgesprek kwam ik er echter achter dat mijn code niet in orde was.
+In week 2 heb ik een poging gedaan om een eerste opzet van de homepage in vanilla HTML te maken. Het structureren van de content in HTML was in het begin behoorlijk lastig. Het was namelijk al een tijdje geleden dat ik met code had gewerkt, en ik wist niet precies waar ik moest beginnen. Daarom besloot ik maar gewoon ergens te starten, en mijn gekozen website na te bouwen. Tijdens het voortgangsgesprek kwam ik er echter achter dat mijn code niet in orde was.
 
 Ik had namelijk geen mobile-first-aanpak gehanteerd. Een studentassistent legde mij uit dat het belangrijk is om altijd mobile-first te beginnen. Bij een mobile-first-aanpak wordt vanaf het begin al een responsief ontwerp toegepast. Bovendien begreep ik dat het eenvoudiger is om vanuit een mobiele layout naar een  desktoplayout te schalen dan andersom.
 
@@ -84,11 +82,39 @@ n.v.t.
 
 <details>
  
-<summary>In de derde week heb ik een poging gedaan om de eerste opzet van de homepage zover mogeijk uit te werken in vanilla HTML.</summary>
+<summary>In week 3 heb ik geprobeerd de HTML elementen van de website zover mogeijk uit te werken in vanilla HTML.</summary>
 
 
 ### Stand van zaken
 Bij deze voortgangsgesprek heb ik kritische feedback ontvangen over het schrijven van non-sematische elementen in mijn HTML document. Ik begreep niet goed waarom ik geen 'div' en 'classes' mocht gebruiken. Na uitgebreide uitleg van Danny de Vries begrijp ik nu eindelijk het belang van het gebruik van semantisch correcte HTML-elementen, zoals header, main en footer. Het gebruik van semantische elementen zorgt namelijk ervoor dat de content duidelijk georganiseerd is.
+
+Dit is een voorbeeld van semantische incorrecte code:
+
+```css
+<div>
+ <ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="#">News & Events</a></li>
+   <li><a href="#">Multimedia</a></li>
+   <li><a href="#">NASA+</a></li>
+   <li><a href="#">Missions</a></li>
+ </ul>
+</div>
+```
+
+Dit is een voorbeeld van semantische correcte code:
+
+```css
+<nav>
+ <ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="#">News & Events</a></li>
+   <li><a href="#">Multimedia</a></li>
+   <li><a href="#">NASA+</a></li>
+   <li><a href="#">Missions</a></li>
+ </ul>
+</nav>
+```
 
 Tot slot heb ik ook het verschil geleerd tussen 'button' en 'a'. Een <button> wordt gebruikt voor interacties binnen dezelfde webpagina, zoals het uitvoeren van een actie of het activeren van een javascript-element. Daarentegen wordt een <a> gebruikt om door te navigeren naar een andere webpagina.
 
