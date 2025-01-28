@@ -158,8 +158,6 @@ De screenreader werd ingezet om de toegankelijkheid en inclusiviteit van de webs
 
   <img src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" width="45%" />
 
-  
-
 Het probleem kan worden opgelost door een duidelijke hiërarchische structuur op te zetten die het navigeren binnen het dropdownmenu eenvoudiger maakt. Dit houdt in dat gebruikers vanuit het hoofdmenu de mogelijkheid krijgen om een onderwerp te selecteren, waarna gebruikers direct toegang hebben tot de bijbehorende subonderwerpen of artikelen binnen die categorie. Daarnaast kan een optie worden toegevoegd waarmee gebruikers eenvoudig kunnen schakelen tussen andere hoofdonderwerpen.
 
 #### Videos spelen continu af in een loop 
@@ -174,7 +172,7 @@ Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, 
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>In week 4 heb ik als doel gezet om de HTML elementen van de website te finaliseren en een beginnetje te maken aan CSS.</summary>
+<summary>In week 4 heb ik mijzelf geintroduceerd aan CSS, en leerde hoe media queries werkten.</summary>
 
 ### Stand van zaken
 De mobiele versie is klaar, dus ik begin nu met de ontwikkeling van de desktopversie. Dit betekent dat ik eerst de benodigde HTML-elementen voor de desktopversie moet opzetten. Zodra deze klaar zijn, zal ik verdergaan met het toepassen van CSS. Christopher Willems heeft mij enorm geholpen bij het implementeren van media queries, waarmee content kan worden toegevoegd of verwijderd om de website responsief te maken voor verschillende schermformaten.
@@ -224,7 +222,7 @@ n.v.t.
 ## Feedbackgesprek 1 (week 5)
 
 <details>
-<summary>Verdiepen in meer CSS</summary>
+<summary>Ik week 5 heb ik lopen erdiepen in CSS zoals Flesbox, Media Queries en Min-Width.</summary>
 
 ### Stand van zaken
 Ik heb mij wezen verdiepen in responsive design en hoe elementen toegevoegd, verwijderd of verplaatst kunnen worden op de webpagina. Hierbij heb ik gewerkt met breakpoints om de lay-out dynamisch aan te passen aan verschillende schermformaten. Mijn website heeft drie responsieve ontwerpen met twee breakpoints.
@@ -245,7 +243,7 @@ Daarnaast heb ik een korte introductie gedaan tot Javascript. Mijn doel was om u
 ## Feedbackgesprek 2 (week 6)
 
 <details>
-<summary>Thuiswerken aan CSS en Javascript</summary>
+<summary>In week 6 heb ik thuis gewerkt aan CSS en Javascript. Mijn doel was om de Homepagina te kunnen finaliseren.</summary>
 
 ### Stand van zaken
 Deze week was erg druk geweest voor mij, omdat ik een herkansing had voor een ander vak die ik echt moest halen. Hierdoor kon ik helaas niet deelnemen aan de feedbackgesprekken op school. Om dit te compenseren, heb ik mezelf verdiept in online bronnen voor het finaliseren van de desktop versie. Christopher Willems heeft mij een hele handige open-source website aanbevolen om theorieën en documentatie op te zoeken, namelijk MDN Web Docs.
@@ -266,7 +264,7 @@ Daarnaast ben ik erachter gekomen dat mijn initiele website voor de tweede webpa
 ## Eindgesprek 
 
 <details>
-<summary>Puntjes op de i zetten</summary>
+<summary>In de laatste week heb ik alle puntjes op de i proberen te zetten.</summary>
 
 ### Stand van zaken
 Door de herkansing kon ik ook niet deelnemen aan aan het eindgesprek. Ik heb contact gezocht met Christopher Willems. Samen hebben wij lopen kijken naar mijn code. 
