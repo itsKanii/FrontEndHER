@@ -158,12 +158,10 @@ De screenreader werd ingezet om de toegankelijkheid en inclusiviteit van de webs
 
   <img src="Schermafbeelding 2025-01-26 om 23 24 34" src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" width="45%" />
 
-<img width="1278" alt="Schermafbeelding 2025-01-26 om 23 24 34" src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" />
+Het probleem kan worden opgelost door een duidelijke hiërarchische structuur op te zetten die het navigeren binnen het dropdownmenu eenvoudiger maakt. Dit houdt in dat gebruikers vanuit het hoofdmenu de mogelijkheid krijgen om een onderwerp te selecteren, waarna gebruikers direct toegang hebben tot de bijbehorende subonderwerpen of artikelen binnen die categorie. Daarnaast kan een optie worden toegevoegd waarmee gebruikers eenvoudig kunnen schakelen tussen andere hoofdonderwerpen.
 
-Het probleem kan worden opgelost door een duidelijke hiërarchische structuur op te zetten die het navigeren binnen het dropdownmenu eenvoudiger maakt. Dit houdt in dat gebruikers vanuit het hoofdmenu de mogelijkheid krijgen om een onderwerp te selecteren, waarna ze direct toegang hebben tot de bijbehorende subonderwerpen of artikelen binnen die categorie. Daarnaast kan een optie worden toegevoegd waarmee gebruikers eenvoudig kunnen schakelen tussen andere hoofdonderwerpen.
-
-#### Videos spelen continu af in een loop. 
-De website van NASA maakt veel gebruik van bewegende achtergronden bij artikelen op de homepagina. Deze video's worden continu afgespeeld en stoppen niet automatisch. Dergelijke elementen kunnen de prestaties van de website negatief beïnvloeden, vooral wanneer het apparaat niet krachtig genoeg is om deze beelden soepel af te spelen.
+#### Videos spelen continu af in een loop 
+De website van NASA maakt veel gebruik van bewegende achtergronden bij artikelen op de homepagina. Deze video's worden continu afgespeeld en stoppen niet automatisch. Deze elementen kunnen de prestaties van de website negatief beïnvloeden, met name wanneer apparaten niet krachtig genoeg zijn om deze beelden soepel af te spelen.
 
 Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, te gebruiken. Daarnaast is het ook een idee om gebruikers de mogelijkheid te geven om deze animaties handmatig uit te schakelen.
 
@@ -174,11 +172,14 @@ Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, 
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>HTML verder uitwerken en begin maken aan CSS.</summary>
+<summary>In week 4 heb ik als doel gezet om de HTML elementen van de website te finaliseren en een beginnetje te maken aan CSS.</summary>
 
 ### Stand van zaken
 De mobiele versie is klaar, dus ik begin nu met de ontwikkeling van de desktopversie. Dit betekent dat ik eerst de benodigde HTML-elementen voor de desktopversie moet opzetten. Zodra deze klaar zijn, zal ik verdergaan met het toepassen van CSS. Christopher Willems heeft mij enorm geholpen bij het implementeren van media queries, waarmee content kan worden toegevoegd of verwijderd om de website responsief te maken voor verschillende schermformaten.
 Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu interactief te maken.
+
+  <img src="Schermafbeelding 2025-01-27 om 00 41 47" width="45%" />
+  <img src="Schermafbeelding 2025-01-27 om 00 43 28" width="45%" />
 
 <img width="626" alt="Schermafbeelding 2025-01-27 om 00 41 47" src="https://github.com/user-attachments/assets/e7f76c64-22d0-4029-881a-33e162a5c804" />
 <img width="626" alt="Schermafbeelding 2025-01-27 om 00 43 28" src="https://github.com/user-attachments/assets/32379fd4-e73c-4d06-91d2-f9391eec6631" />
