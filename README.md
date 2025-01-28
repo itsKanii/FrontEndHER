@@ -49,23 +49,8 @@ Zie rechts: ...Pagina
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="https://github.com/user-attachments/assets/5cc6ffc6-309b-4325-bdbc-931a4fbeb781
-" width="375px" alt="breakdown van de hele pagina">
-
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
-</p>
+  <img src="https://github.com/user-attachments/assets/e1a45865-c1bd-4919-8246-4920df64159b" width="45%" />
 
 
 
