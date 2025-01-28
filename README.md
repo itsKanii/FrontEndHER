@@ -168,11 +168,11 @@ Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, 
 #### WCAG Checklist (door Beyza)
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/64e1da7d-26d3-47df-91da-397b0eee95a2" width="45%" />
-  <img src="https://github.com/user-attachments/assets/817a98a8-6a63-4363-bbcf-d074ce06871d" width="45%" />
-  <img src="https://github.com/user-attachments/assets/d733582d-6503-4fef-bd36-ec29b5ebea29" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4368296c-f96a-4cfe-84d8-dfc5d091eb4f" width="45%" />
-  <img src="https://github.com/user-attachments/assets/894ebf15-8a0c-414d-b013-0b35b3263eef" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2465882e-a649-484f-a027-2112721c2bcd" width="45%" />
+  <img src="https://github.com/user-attachments/assets/604af183-2b95-44aa-84df-4626b44d713f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a438ef5c-4002-445e-bf56-5c4a2dc84d89" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0a276d3b-0207-44fe-b6a0-1ccbef44a43b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a09bfe8f-b61e-4bb9-a883-7c442235219d" width="45%" />
 </p>
 
 </details>
