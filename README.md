@@ -165,6 +165,16 @@ De website van NASA maakt veel gebruik van bewegende achtergronden bij artikelen
 
 Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, te gebruiken. Daarnaast is het ook een idee om gebruikers de mogelijkheid te geven om deze animaties handmatig uit te schakelen.
 
+#### WCAG Checklist (door Beyza)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/64e1da7d-26d3-47df-91da-397b0eee95a2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/817a98a8-6a63-4363-bbcf-d074ce06871d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d733582d-6503-4fef-bd36-ec29b5ebea29" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4368296c-f96a-4cfe-84d8-dfc5d091eb4f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/894ebf15-8a0c-414d-b013-0b35b3263eef" width="45%" />
+</p>
+
 </details>
 
 
