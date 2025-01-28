@@ -229,11 +229,12 @@ n.v.t.
 ### Stand van zaken
 Ik heb mij wezen verdiepen in responsive design en hoe elementen toegevoegd, verwijderd of verplaatst kunnen worden op de webpagina. Hierbij heb ik gewerkt met breakpoints om de lay-out dynamisch aan te passen aan verschillende schermformaten. Mijn website heeft drie responsieve ontwerpen met twee breakpoints.
 De website begint met een minimale min-width van 600px. Het eerste breakpoint is ingesteld op 640px en het tweede breakpoint op 1024px. Hierdoor wordt de website optimaal weergegeven op diverse schermgroottes.
+Daarnaast heb ik met flexbox lopen werken zodat ik content kan verschuiven aan de hand van diverse media queries.
 
 ### Kernpunten deze week
 - Min-width zorgt ervoor dat de website een minimale dimensie kan behouden om het te laten werken.
-- Niet alle elementen worden meegeschaald met de responsiveness van de website.
-- Uitleg gekregen Javascript.
+- Ik heb lopen experimenteren met flexbox en media queries.
+- Uitleg zoeken over Javascript op het internet
 
 </details>
 
@@ -246,11 +247,12 @@ De website begint met een minimale min-width van 600px. Het eerste breakpoint is
 
 ### Stand van zaken
 Deze week was erg druk geweest voor mij, omdat ik een herkansing had voor een ander vak die ik echt moest halen. Hierdoor kon ik helaas niet deelnemen aan de feedbackgesprekken op school. Om dit te compenseren, heb ik mezelf verdiept in online bronnen voor het finaliseren van mijn website. Christopher Willems heeft mij een hele handige open-source website aanbevolen om theorieën en documentatie op te zoeken, namelijk MDN Web Docs.
+Omdat de website van Nasa.gov constant verandert, is mijn initiele tweede pagina van de website verdwenen. Ik heb uiteindelijk een nieuwe webpaginam moeten zoeken om het na te maken.
 
 ### Kernpunten deze week
-- Min-width zorgt ervoor dat de website een minimale dimensie kan behouden om het te laten werken.
-- Niet alle elementen worden meegeschaald met de responsiveness van de website.
-- Uitleg gekregen Javascript.
+- Meer wezen verdiepen in CSS en Javascript
+- Zoeken van een nieuwe tweede webpagina.
+- Begin gemaakt aan de tweede webpagina.
 
 </details>
 
@@ -260,7 +262,7 @@ Deze week was erg druk geweest voor mij, omdat ik een herkansing had voor een an
 <summary>Puntjes op de i zetten</summary>
 
 ### Stand van zaken
-Door de herkansing kon ik ook niet deelnemen aan aan het eindgesprek. Ik heb contact gezocht met Christopher Willems. Samen hebben wij naar mijn code gekeken.
+Door de herkansing kon ik ook niet deelnemen aan aan het eindgesprek. Ik heb contact gezocht met Christopher Willems. Samen hebben wij lopen kijken naar mijn code. 
 
 ### Screenshot(s)
 
@@ -270,27 +272,18 @@ hier screenshot(s) van je eindresultaat
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Bronnenlijst
 
 <details open>
 <summary>Onderstaan zie je de bronnen die ik heb gebruikt om deze webpagina's te maken.</summary>
 
-
 - Aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
-- 
-3. bron 2
+- Article: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+- Flexbox: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox
+- Images/ Logo: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+- Javascript: https://dlo.mijnhva.nl/content/enforced/609316-FDMCI-2000FED121-DMCI-CMD-2425-1/FED%2024-25%20-%20Blok%202%20-%20Intro%20JS%203-stap.pdf
+- Semantics: https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+- Toggle True/Flase: https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle
 - Media Query Fundamentals: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries
 
 </details>
