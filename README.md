@@ -181,8 +181,29 @@ Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu int
   <img src="Schermafbeelding 2025-01-27 om 00 41 47" width="45%" />
   <img src="Schermafbeelding 2025-01-27 om 00 43 28" width="45%" />
 
-<img width="626" alt="Schermafbeelding 2025-01-27 om 00 41 47" src="https://github.com/user-attachments/assets/e7f76c64-22d0-4029-881a-33e162a5c804" />
-<img width="626" alt="Schermafbeelding 2025-01-27 om 00 43 28" src="https://github.com/user-attachments/assets/32379fd4-e73c-4d06-91d2-f9391eec6631" />
+Christopher Willems heeft mij uitleg gegeven hoe ik mijn website responsive kan maken door mediaqueries te gebruiken.
+De 'min-width' element geeft aan hoe de webpagina hoort te gedragen, wanneer de webpagina een bepaalde minimale breedte heeft kunnen bereiken.
+Ik heb onderstaand lopen oefenen met kleuren om deze veranderingen eenvoudig te kunnen zien.
+
+```css
+@media (min-width: 640px) {
+    main {
+        background-color: purple;
+    }
+}
+
+@media (min-width: 800px) {
+    main {
+        background-color: yellow;
+    }
+}
+
+@media (min-width: 1024px) {
+    main {
+        background-color: red;
+    }
+}
+```
 
 ### Agenda voor meeting
 n.v.t.
