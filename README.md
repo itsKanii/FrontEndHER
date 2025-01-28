@@ -39,10 +39,19 @@ Zie links: Homepagina
 Zie rechts: ...Pagina
 
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%"/>
+Here are two images with individual headings:
+
+<p float="left" align="center">
+  <div>
+    <strong>First Image Title</strong>
+    <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+  </div>
+  <div>
+    <strong>Second Image Title</strong>
+    <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469)" width="45%" />
+  </div>
 </p>
+
 
 
 
