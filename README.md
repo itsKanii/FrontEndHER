@@ -118,6 +118,23 @@ Dit is een voorbeeld van semantische correcte code:
 
 Tot slot heb ik ook het verschil geleerd tussen 'button' en 'a'. Een <button> wordt gebruikt voor interacties binnen dezelfde webpagina, zoals het uitvoeren van een actie of het activeren van een javascript-element. Daarentegen wordt een <a> gebruikt om door te navigeren naar een andere webpagina.
 
+Ik heb 'button' toegepast voor het toggelen van de hamburger side menu:
+
+```css
+<button aria-label="Toggle Sidebar" aria-expanded="false">☰</button>
+```
+
+Ik heb 'a' toegepast voor het creëren van links op de homepagina:
+
+```css
+<nav>
+ <a href="#">News & Events</a>
+ <a href="#">Multimedia</a>
+ <a href="#">NASA+</a>
+</nav>
+```
+
+
 ### Agenda voor meeting
 n.v.t.
 
@@ -244,8 +261,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. Aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
+2. 
+3. bron 2
+4. ...
 
 </details>
