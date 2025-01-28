@@ -231,6 +231,8 @@ Ik heb mij wezen verdiepen in responsive design en hoe elementen toegevoegd, ver
 De website begint met een minimale min-width van 600px. Het eerste breakpoint is ingesteld op 640px en het tweede breakpoint op 1024px. Hierdoor wordt de website optimaal weergegeven op diverse schermgroottes.
 Daarnaast heb ik met flexbox lopen werken zodat ik content kan verschuiven aan de hand van diverse media queries.
 
+Daarnaast heb ik een korte introductie gedaan tot Javascript. Mijn doel was om uit te zoeken hoe je de code kan schrijven, en hoe dit opgeroepen kan worden. 
+
 ### Kernpunten deze week
 - Min-width zorgt ervoor dat de website een minimale dimensie kan behouden om het te laten werken.
 - Ik heb lopen experimenteren met flexbox en media queries.
@@ -246,10 +248,15 @@ Daarnaast heb ik met flexbox lopen werken zodat ik content kan verschuiven aan d
 <summary>Thuiswerken aan CSS en Javascript</summary>
 
 ### Stand van zaken
-Deze week was erg druk geweest voor mij, omdat ik een herkansing had voor een ander vak die ik echt moest halen. Hierdoor kon ik helaas niet deelnemen aan de feedbackgesprekken op school. Om dit te compenseren, heb ik mezelf verdiept in online bronnen voor het finaliseren van mijn website. Christopher Willems heeft mij een hele handige open-source website aanbevolen om theorieën en documentatie op te zoeken, namelijk MDN Web Docs.
-Omdat de website van Nasa.gov constant verandert, is mijn initiele tweede pagina van de website verdwenen. Ik heb uiteindelijk een nieuwe webpaginam moeten zoeken om het na te maken.
+Deze week was erg druk geweest voor mij, omdat ik een herkansing had voor een ander vak die ik echt moest halen. Hierdoor kon ik helaas niet deelnemen aan de feedbackgesprekken op school. Om dit te compenseren, heb ik mezelf verdiept in online bronnen voor het finaliseren van de desktop versie. Christopher Willems heeft mij een hele handige open-source website aanbevolen om theorieën en documentatie op te zoeken, namelijk MDN Web Docs.
+
+Ik heb deze week veel aan de homepagina gezeten. Ik wil de mediaqueries afmaken, zodat ik aan de hamburger menu kan zitten. Dit betekent dat ik dieper in Javascript moest duiken.
+Daarnaast ben ik erachter gekomen dat mijn initiele website voor de tweede webpagina is verdwenen, omdat de website van Nasa.gov constant verandert. Ik heb uiteindelijk een nieuwe webpaginam moeten zoeken om het na te maken.
+
+  <img src="https://github.com/user-attachments/assets/56211f28-571c-4ee3-a578-5a20aadf8fd2" width="45%" />
 
 ### Kernpunten deze week
+- Finaliseren van de Homepagina.
 - Meer wezen verdiepen in CSS en Javascript
 - Zoeken van een nieuwe tweede webpagina.
 - Begin gemaakt aan de tweede webpagina.
