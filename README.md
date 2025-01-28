@@ -48,6 +48,8 @@ Zie rechts: ...Pagina
 
 <details>
 
+<summary>In week 1 heb ik een breakdownschets gemaakt van de twee gekozen webpagina's.</summary>
+
   <img src="https://github.com/user-attachments/assets/ab70bb90-eccb-4441-a830-f600550166d6" width="45%" />
 
 </details>
