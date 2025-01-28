@@ -50,7 +50,7 @@ Zie rechts: ...Pagina
 
 <details>
 
-  <img src="https://github.com/user-attachments/assets/e1a45865-c1bd-4919-8246-4920df64159b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ab70bb90-eccb-4441-a830-f600550166d6" width="45%" />
 
 
 
