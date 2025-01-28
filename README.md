@@ -27,8 +27,6 @@ Responsive Design
 
 
 
-
-
 ## Je website
 
 <details open>
@@ -60,7 +58,7 @@ Zie rechts: ...Pagina
 
 <details>
  
-<summary>In week 1 heb ik een poging gedaan om de eerste opzet van de website te maken in vanilla HTML.</summary>
+<summary>In week 2 heb ik een poging gedaan om de eerste opzet van de website te maken in vanilla HTML.</summary>
 
 ### Stand van zaken
 In week 2 heb ik een poging gedaan om een eerste opzet van de homepage in vanilla HTML te maken. Het structureren van de content in HTML was in het begin behoorlijk lastig. Het was namelijk al een tijdje geleden dat ik met code had gewerkt, en ik wist niet precies waar ik moest beginnen. Daarom besloot ik maar gewoon ergens te starten, en mijn gekozen website na te bouwen. Tijdens het voortgangsgesprek kwam ik er echter achter dat mijn code niet in orde was.
