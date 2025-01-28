@@ -36,24 +36,19 @@ Responsive Design
 ### Je opdracht:
 Ik ga twee webpagina's bouwen van de website www.nasa.gov.
 
-```css
-a:active {
-  text-decoration: underline;
-  color: brown;
-}
 
-a:hover {
-  text-decoration: underline;
-  color: brown;
-  font-size: 1em;
-}
-```
+<p float="left">
+  <img src="https://example.com/image1.jpg](https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+  <img src="https://example.com/image1.jpg](https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+</p>
+
 
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
 
 <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" alt="First Web Page" style="width:20%; height:20%">
+
 
 
 #### Screenshot(s) van de tweede pagina (small screen):
