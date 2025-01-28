@@ -178,8 +178,8 @@ Het probleem kan worden opgelost door minder belastende elementen, zoals GIF's, 
 De mobiele versie is klaar, dus ik begin nu met de ontwikkeling van de desktopversie. Dit betekent dat ik eerst de benodigde HTML-elementen voor de desktopversie moet opzetten. Zodra deze klaar zijn, zal ik verdergaan met het toepassen van CSS. Christopher Willems heeft mij enorm geholpen bij het implementeren van media queries, waarmee content kan worden toegevoegd of verwijderd om de website responsief te maken voor verschillende schermformaten.
 Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu interactief te maken.
 
-  <img src="Schermafbeelding 2025-01-27 om 00 41 47" width="45%" />
-  <img src="Schermafbeelding 2025-01-27 om 00 43 28" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b7a143d4-89dc-42d8-b8b1-1bcd05fa8264" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e7fc943e-aa05-4431-92dd-643a2a9651f2" width="45%" />
 
 Christopher Willems heeft mij uitleg gegeven hoe ik mijn website responsive kan maken door mediaqueries te gebruiken.
 De 'min-width' element geeft aan hoe de webpagina hoort te gedragen, wanneer de webpagina een bepaalde minimale breedte heeft kunnen bereiken.
