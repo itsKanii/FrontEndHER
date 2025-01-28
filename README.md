@@ -116,7 +116,7 @@ Dit is een voorbeeld van semantische correcte code:
 </nav>
 ```
 
-Tot slot heb ik ook het verschil geleerd tussen 'button' en 'a'. Een <button> wordt gebruikt voor interacties binnen dezelfde webpagina, zoals het uitvoeren van een actie of het activeren van een javascript-element. Daarentegen wordt een <a> gebruikt om door te navigeren naar een andere webpagina.
+Tot slot heb ik ook het verschil geleerd tussen 'button' en 'a'. Een 'button' wordt gebruikt voor interacties binnen dezelfde webpagina, zoals het uitvoeren van een actie of het activeren van een javascript-element. Daarentegen wordt een 'a' gebruikt om door te navigeren naar een andere webpagina.
 
 Ik heb 'button' toegepast voor het toggelen van de hamburger side menu:
 
@@ -134,7 +134,6 @@ Ik heb 'a' toegepast voor het creëren van links op de homepagina:
 </nav>
 ```
 
-
 ### Agenda voor meeting
 n.v.t.
 
@@ -149,13 +148,15 @@ n.v.t.
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>In week 4 heb ik een toegankelijkheidstest samen met een medestudent laten uitvoeren op mijn website.</summary>
+<summary>In week 4 heb ik een toegankelijkheidstest uitgevoerd op mijn website samen met een medestudent op school.</summary>
 
 ### Bevindingen
-Onderstaand worden de belangrijkste bevindingen, die in de test naar voren kwamen, vermeld:
+Onderstaand worden de belangrijkste bevindingen vermeld die in de test naar voren kwamen:
 
 #### De dropdown menu in de navigatiebalk (Desktop versie)
 De screenreader werd ingezet om de toegankelijkheid en inclusiviteit van de website www.nasa.gov te meten. Hieruit bleek dat de navigatie in het dropdownmenu van de navigatiebalk op de homepagina niet optimaal is ontworpen voor gebruikers met bewegingsbeperkingen. Gebruikers kunnen namelijk niet eenvoudig met de pijltjestoetsen door het menu navigeren. Aangezien het dropdownmenu een groot aantal onderwerpen bevat, moeten gebruikers elk onderwerp individueel doorlopen. Dit maakt het niet mogelijk om direct de gewenste webpagina te selecteren, wat de gebruiksvriendelijkheid van de gebruiker belemmert.
+
+  <img src="Schermafbeelding 2025-01-26 om 23 24 34" src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" width="45%" />
 
 <img width="1278" alt="Schermafbeelding 2025-01-26 om 23 24 34" src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" />
 
