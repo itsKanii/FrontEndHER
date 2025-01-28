@@ -18,7 +18,7 @@ Ik heb veel plezier beleefd aan het in praktijk brengen van de kennis die ik tij
 Kaa Leung Ho
 
 #### Je startniveau:
-Blauw/Rood
+Blauw
 
 #### Je focus:
 Responsive Design
@@ -46,7 +46,6 @@ Zie rechts: ...Pagina
 </details>
 
 
-
 ## Breakdownschets (week 1)
 
 <details>
@@ -60,6 +59,14 @@ Zie rechts: ...Pagina
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+</p>
+
+
 
 </details>
 
