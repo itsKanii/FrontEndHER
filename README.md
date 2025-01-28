@@ -179,6 +179,8 @@ De mobiele versie is klaar, dus ik begin nu met de ontwikkeling van de desktopve
 Daarnaast ga ik ook een beginnetje maken aan Javascript om het hamburgermenu interactief te maken.
 
   <img src="https://github.com/user-attachments/assets/b7a143d4-89dc-42d8-b8b1-1bcd05fa8264" width="45%" />
+
+Mijn doel is nu om de HTML elementen voor de desktop versie te maken. Zie referentie:
   <img src="https://github.com/user-attachments/assets/e7fc943e-aa05-4431-92dd-643a2a9651f2" width="45%" />
 
 Christopher Willems heeft mij uitleg gegeven hoe ik mijn website responsive kan maken door mediaqueries te gebruiken.
