@@ -38,8 +38,8 @@ Ik ga twee webpagina's bouwen van de website www.nasa.gov.
 
 
 <p float="left">
-  <img src="https://example.com/image1.jpg](https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
-  <img src="https://example.com/image1.jpg](https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/f65bbe32-0f72-454d-8702-caeed4db7469" width="45%"/>
 </p>
 
 
