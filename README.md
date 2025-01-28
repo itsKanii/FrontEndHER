@@ -156,7 +156,9 @@ Onderstaand worden de belangrijkste bevindingen vermeld die in de test naar vore
 #### De dropdown menu in de navigatiebalk (Desktop versie)
 De screenreader werd ingezet om de toegankelijkheid en inclusiviteit van de website www.nasa.gov te meten. Hieruit bleek dat de navigatie in het dropdownmenu van de navigatiebalk op de homepagina niet optimaal is ontworpen voor gebruikers met bewegingsbeperkingen. Gebruikers kunnen namelijk niet eenvoudig met de pijltjestoetsen door het menu navigeren. Aangezien het dropdownmenu een groot aantal onderwerpen bevat, moeten gebruikers elk onderwerp individueel doorlopen. Dit maakt het niet mogelijk om direct de gewenste webpagina te selecteren, wat de gebruiksvriendelijkheid van de gebruiker belemmert.
 
-  <img src="Schermafbeelding 2025-01-26 om 23 24 34" src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" width="45%" />
+  <img src="https://github.com/user-attachments/assets/efbde683-d8d2-4fb0-825a-7da790654185" width="45%" />
+
+  
 
 Het probleem kan worden opgelost door een duidelijke hiërarchische structuur op te zetten die het navigeren binnen het dropdownmenu eenvoudiger maakt. Dit houdt in dat gebruikers vanuit het hoofdmenu de mogelijkheid krijgen om een onderwerp te selecteren, waarna gebruikers direct toegang hebben tot de bijbehorende subonderwerpen of artikelen binnen die categorie. Daarnaast kan een optie worden toegevoegd waarmee gebruikers eenvoudig kunnen schakelen tussen andere hoofdonderwerpen.
 
